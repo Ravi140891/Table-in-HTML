@@ -1,0 +1,30 @@
+table, th, td {
+    width: auto;
+    border: 1px solid black;
+    margin: auto;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+
+.col {
+    background-color: #c5e9bb ;
+}
+
+.green {
+    background-color: #53af62;
+    color: white;
+
+}
+
+.oth {
+    background-color: #dedede;
+}
+
+.hash {
+    width: 5%;
+}
+
+.perc {
+    width: 7%;
+}
